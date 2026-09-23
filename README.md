@@ -27,8 +27,11 @@ Supernova 2.0 is a college event management website developed to provide student
 
 **Technologies:**
 HTML • CSS • JavaScript • PHP • MySQL
+Web Site URL - 🔗 https://supernova.mgmu.ac.in/
+<img width="1892" height="908" alt="image" src="https://github.com/user-attachments/assets/9daa1c0c-b2bf-442a-a618-3599cb907235" />
+<img width="1901" height="887" alt="image" src="https://github.com/user-attachments/assets/dad6a7de-8288-4dd4-8865-0131a981fa45" />
 
-🔗 **[View Project Showcase](https://github.com/Vincehussain173/my-projects/tree/main/Supernova-2.0)**
+
 
 ---
 
@@ -54,6 +57,8 @@ SANKALP is an **International Conference Website** being developed as a college 
 HTML • CSS • JavaScript • [Add other technologies used]
 
 🔗 **[View Project Showcase](https://github.com/Vincehussain173/my-projects/tree/main/SANKALP)**
+<img width="1908" height="910" alt="image" src="https://github.com/user-attachments/assets/8a2a9a27-57b8-4ecd-b6f2-bd3027309726" />
+
 
 ---
 
