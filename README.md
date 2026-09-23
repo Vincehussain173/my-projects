@@ -105,5 +105,5 @@ This profile therefore showcases the **projects I have contributed to, my indivi
 I'm always interested in learning, collaborating, and working on practical technology projects.
 
 * GitHub: [@Vincehussain173](https://github.com/Vincehussain173)
-* LinkedIn: [Add your LinkedIn profile]
-* Email: [Add your professional email]
+* LinkedIn: [https://www.linkedin.com/in/neehal-hussain-22a2223a8/]
+* Email: [neehalhussain2@gmail.com]
